@@ -6,10 +6,11 @@ In high school I spent summers as a student intern at Fox Chase Cancer Center. W
 How to use:
 
 1) Ignore the zero correction and average colony size tools as they were never fully developed
-Upload a jpeg image
 
-2) To calibrate the image pay attention to the plates that contain the wells for the cell colonys. There are six wells in total, and to calibrate one must first click on the notch in between the top two wells, and the notch in between the two bottom wells. If done correctly a red grid will outline all six wells. 
+2)Upload a jpeg image
 
-3) When counted, the cell colonies will be highlighted in red
+3) To calibrate the image pay attention to the plates that contain the wells for the cell colonys. There are six wells in total, and to calibrate one must first click on the notch in between the top two wells, and the notch in between the two bottom wells. If done correctly a red grid will outline all six wells. 
 
-4) The data displayed is in two columns, the end result it the right column which displays the values for the "kill curve," it considers the bottom right well's colony count to be 100% as that well is commonly the control and has no drug added to it
+4) When counted, the cell colonies will be highlighted in red
+
+5) The data displayed is in two columns, the end result it the right column which displays the values for the "kill curve," it considers the bottom right well's colony count to be 100% as that well is commonly the control and has no drug added to it
