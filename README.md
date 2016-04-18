@@ -7,7 +7,7 @@ How to use:
 
 1) Ignore the zero correction and average colony size tools as they were never fully developed
 
-2)Upload a jpeg image
+2) Upload a jpeg image
 
 3) To calibrate the image pay attention to the plates that contain the wells for the cell colonys. There are six wells in total, and to calibrate one must first click on the notch in between the top two wells, and the notch in between the two bottom wells. If done correctly a red grid will outline all six wells. 
 
